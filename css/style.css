@@ -1,0 +1,92 @@
+.bg-blue-menu{
+	background-color:#c91517;
+	color: #fff;
+	text-align: center;
+	
+}
+
+.block.bg-blue-menu{
+	margin-top: 0;
+	padding: 20px 0;
+}
+.circle-menu{
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	background-color: #681A1B;
+	color: #007CC8;
+	text-align: center;
+	display: block;
+	border-radius: 100%;
+	margin: 0 auto;
+}
+.bg-blue-menu .block-title{
+	color: #fff;
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+.panel-left{
+	background-color: #c91517;
+}
+.panel-left .list{
+	color: #fff;
+	font-size: 14px;}
+
+.icon{
+color:#fff;
+}
+
+.centro{
+text-align: center;
+color:#c91517;
+}
+
+.btn-nuevo{
+background-color:#c91517;
+color:#fff;
+padding:3%;
+border-radius:2px;
+margin-left: 35%;
+}
+
+.color{
+color:#c91517;
+}
+
+.albondiga{
+margin-left:15%;
+}
+
+.chef{
+margin-left: 5%;
+}
+
+.centrochef{
+margin-left: 20%;
+}
+
+.espacio-imagenes{
+	padding-top:3%;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}
+
+.card-producto h2{
+	font-size: 30px;	
+}
+
+.card-producto i{
+	color: #d7c523;
+}
+
+.card-producto h3{
+	font-size: 16px;	
+}
+
+.card-producto .card-header{
+	padding: 0;
+}
